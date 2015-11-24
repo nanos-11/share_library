@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">social_sdk_library_project</string>
+    <string name="error_net">没有网络链接，请检查您的网络</string>
+</resources>
